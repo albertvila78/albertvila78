@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albert Vila
 - 👀 I’m interested in Data, Data Science, Machine learning.
-- 🌱 I’m currently learning Data Scine in It Academy.
+- 🌱 I’m currently learning Data Science in It Academy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me albert.vila@hotmail.es
 
